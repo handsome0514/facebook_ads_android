@@ -1,0 +1,6 @@
+com.edu.magika.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\Billiard\.gradle\caches\transforms-3\3c9ea529f23720da778472e6a901f2c1\transformed\jetified-annotation-experimental-1.3.0\res
+com.edu.magika.test.app-jetified-core-1.5.0-1 C:\Users\Billiard\.gradle\caches\transforms-3\8a9c008ed378b55413161b0e38dc416f\transformed\jetified-core-1.5.0\res
+com.edu.magika.test.app-androidTest-2 D:\Task\_OOP\FB_ADS\app\build\generated\res\resValues\androidTest\debug
+com.edu.magika.test.app-mergeDebugAndroidTestResources-3 D:\Task\_OOP\FB_ADS\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.edu.magika.test.app-mergeDebugAndroidTestResources-4 D:\Task\_OOP\FB_ADS\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.edu.magika.test.app-merged_res-5 D:\Task\_OOP\FB_ADS\app\build\intermediates\merged_res\debugAndroidTest

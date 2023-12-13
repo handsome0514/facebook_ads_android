@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675724804411",
+    "project_id": "edumagika-eda18",
+    "storage_bucket": "edumagika-eda18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675724804411:android:ccd56cdf5eee42047db71e",
+        "android_client_info": {
+          "package_name": "com.edu.magika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFiyTJT2vR8hLs3NpdG2Li2zzS8EjMDBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
